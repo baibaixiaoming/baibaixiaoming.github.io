@@ -1,8 +1,10 @@
 ---
-title: baibaixiaoming
+title: baibaixiaoming 首页
 ---
 
 # baibaixiaoming
+
+专为无障碍设计。
 
 我们做的应用：
 
