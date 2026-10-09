@@ -1,6 +1,6 @@
 ---
 title: 技术支持
-permalink: /support/
+permalink: /myriad/support/
 ---
 
 # 万籁播放器 · 技术支持

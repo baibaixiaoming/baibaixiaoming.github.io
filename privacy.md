@@ -1,6 +1,6 @@
 ---
 title: 隐私政策
-permalink: /privacy/
+permalink: /myriad/privacy/
 ---
 
 # 万籁播放器隐私政策
