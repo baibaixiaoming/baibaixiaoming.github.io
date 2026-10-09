@@ -19,6 +19,12 @@ https://github.com/baibaixiaoming/myriad-music-kit
 **歌词怎么显示？**
 把与歌曲同名的 .lrc 歌词文件放在歌曲旁边即可；整轨专辑可以用“两位音轨号 歌名.lrc”。
 
+## 相关网址
+
+- 应用主页：https://baibaixiaoming.github.io/myriad/
+- 隐私政策：https://baibaixiaoming.github.io/myriad/privacy/
+- 开源代码：https://github.com/baibaixiaoming/myriad-music-kit
+
 ## 反馈与求助
 
 请在 https://github.com/baibaixiaoming/myriad-music-kit/issues 留言。

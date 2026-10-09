@@ -7,6 +7,8 @@ permalink: /myriad/privacy/
 
 更新日期：2026 年 10 月 9 日
 
+本政策网址：https://baibaixiaoming.github.io/myriad/privacy/
+
 万籁播放器（Myriad Player，以下称“本应用”）是一款音乐播放器，用来播放你设备上的音乐、你自己的音乐服务器上的音乐，以及（经你授权后）你的 Apple Music 资料库。
 
 ## 我们不收集你的个人信息
@@ -36,13 +38,13 @@ permalink: /myriad/privacy/
 
 ## 联系我们
 
-如有疑问，请在 https://github.com/baibaixiaoming/myriad-music-kit/issues 提出。
+如有疑问，请在 https://github.com/baibaixiaoming/myriad-music-kit/issues 提出，或查看技术支持页 https://baibaixiaoming.github.io/myriad/support/ 。
 
 ---
 
 ## Myriad Player Privacy Policy
 
-Last updated: October 9, 2026
+Last updated: October 9, 2026 · https://baibaixiaoming.github.io/myriad/privacy/
 
 Myriad Player ("the app") plays music stored on your device, music on music servers that you add yourself, and — only if you authorize it — your Apple Music library.
 
